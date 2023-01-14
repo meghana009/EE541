@@ -23,3 +23,6 @@ plt.hist(freq)
 
 plt.ylabel('Number of Experiment')
 plt.xlabel('Number of Heads');
+
+
+
